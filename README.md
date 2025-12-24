@@ -1,11 +1,11 @@
-# Crossword Crafter 🧩  
+# Crossword Crafter- Crossword Puzzle Generator and Solver 
 **Algorithmic Word Placement and Optimization using Spring Boot + React**
 
-🚀 Live Demo: [Try it here](https://mayank-singh-rawat-crossword-puzzle.netlify.app/)  
+ Live Demo: [Try it here](https://mayank-singh-rawat-crossword-puzzle.netlify.app/)  
 
-⚠️ **Note:** The backend is deployed on **Render** and the database on **Railway**.  
+ **Note:** The backend is deployed on **Render** and the database on **Railway**.  
 Due to cold starts, the app may take a while to load.  
-👉 For a quick walkthrough, watch this **[YouTube demo video](https://youtu.be/BRvVmrBjKVs?feature=shared)**.  
+ For a quick walkthrough, watch this **[YouTube demo video](https://youtu.be/BRvVmrBjKVs?feature=shared)**.  
 
 
 ## 📖 Overview  
@@ -16,21 +16,21 @@ This project demonstrates both **full-stack engineering** and **computer science
 
 ---
 
-## ✨ Features  
-- 🔠 **Automatic Word Placement** – optimized crossword layout from word lists.  
-- 🧮 **Algorithms Used**:  
+##  Features  
+-  **Automatic Word Placement** – optimized crossword layout from word lists.  
+-  **Algorithms Used**:  
   - Recursion + Backtracking  
   - Depth-First Search (DFS)  
   - Trie-based word lookups  
-- 🗂 **Data Structures**: Trie, List, Map, etc.  
-- 🌐 **Full-Stack Implementation**:  
+-  **Data Structures**: Trie, List, Map, etc.  
+-  **Full-Stack Implementation**:  
   - Spring Boot REST APIs for puzzle logic  
   - React frontend for interactive UI  
-- ☁️ **Deployed Online** (Netlify + backend APIs).  
+-  **Deployed Online** (Netlify + backend APIs).  
 
 ---
 
-## 🛠 Tech Stack  
+##  Tech Stack  
 
 **Frontend**  
 - React  
