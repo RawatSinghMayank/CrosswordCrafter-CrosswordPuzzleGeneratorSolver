@@ -1,6 +1,13 @@
 # 🧩 Crossword Crafter – Crossword Puzzle Generator & Solver
 ### Algorithmic Word Placement and Optimization using Spring Boot + React
 
+![Spring Boot](https://img.shields.io/badge/Backend-SpringBoot-brightgreen)
+![React](https://img.shields.io/badge/Frontend-React-blue)
+![Algorithms](https://img.shields.io/badge/Algorithms-Backtracking-orange)
+![Deployment](https://img.shields.io/badge/Deployment-Netlify%20%7C%20Render-purple)
+![Database](https://img.shields.io/badge/Database-Railway-red)
+![Status](https://img.shields.io/badge/Status-Active-success)
+
 🔗 **Live Demo:**  
 https://mayank-singh-rawat-crossword-puzzle.netlify.app/
 
@@ -71,6 +78,7 @@ It demonstrates both **software engineering skills** and **core computer science
 ### Deployment
 - Frontend: Netlify
 - Backend: Render
+
 ---
 
 ## ⚡ Getting Started (Local Setup)
@@ -85,7 +93,7 @@ Make sure you have:
 
 ---
 
-## 🔧 Backend Setup
+## 🔧 Backend and Frontend Setup
 
 ```bash
 # Clone repository
@@ -99,3 +107,13 @@ mvn clean install
 
 # Run backend
 mvn spring-boot:run
+
+# Frontend Setup
+# Navigate to frontend folder
+cd CrosswordSpring/CrosswordFrontendBackend/frontend
+
+# Install dependencies
+npm install
+
+# Start frontend
+npm run dev
